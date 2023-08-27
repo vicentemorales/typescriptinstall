@@ -1,0 +1,22 @@
+{
+  "name": "typescriptinstall",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vicentemorales/typescriptinstall.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vicentemorales/typescriptinstall/issues"
+  },
+  "homepage": "https://github.com/vicentemorales/typescriptinstall#readme",
+  "devDependencies": {
+    "typescript": "^4.4.4"
+  }
+}
